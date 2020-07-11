@@ -7,3 +7,5 @@ def method1():
 def method2():
     print("\n Hi, this is method2")
     return "2"
+
+
