@@ -8,4 +8,7 @@ def method2():
     print("\n Hi, this is method2")
     return "2"
 
+def method3():
+    print(1/0)
 
+method3()
