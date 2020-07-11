@@ -9,6 +9,6 @@ def method2():
     return "2"
 
 def method3():
-    print(1/0)
+    print(1/1)
 
 method3()
